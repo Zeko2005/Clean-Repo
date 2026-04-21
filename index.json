@@ -16,7 +16,7 @@
             }
         ],
         "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.comicgrowl-v1.4.11.apk",
-        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/icon/eu.kanade.tachiyomi.extension.all.comicgrowl.png"
+        "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.all.comicgrowl.png"
     },
     {
         "name": "Tachiyomi: ComicsKingdom",
